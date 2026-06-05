@@ -30,7 +30,6 @@ interests:
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -51,8 +50,3 @@ interests:
 | [🎯 Recommendation-Items-System](https://github.com/Trong-Tan-Bui/Recommendation-Items-System) | Hệ thống gợi ý sản phẩm | JavaScript |
 | [📚 CS116_PIR](https://github.com/Trong-Tan-Bui/CS116_PIR) | Bài tập môn học CS116 | Python |
 
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=24521573&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
