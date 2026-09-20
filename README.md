@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Trong-Tan+Bui+%F0%9F%91%8B;Computer+Science+%40+UIT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I%27m+Bui+Trong+Tan)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name:       Trong-Tan Bui
+name:       Bui Trong Tan
 location:   Ho Chi Minh City, Vietnam
 university: University of Information Technology (UIT)
 major:      Computer Science
@@ -23,21 +23,14 @@ interests:
   - Machine Learning
   - Computer Vision / Object Detection
   - LLMs
+  - Multi-modal Retrieval system
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
+## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
